@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Amine EL-marzouqi 👋
 
-<!--
-**ELmarzouqii/ELmarzouqii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **System & Network Engineering Student (TS Reseaux & Systemes)**  
+Passionate about Cisco Technologies, Routing & Switching, Network Security, and System Administration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Skills
+
+- **Networking & Routing:** Cisco CCNA, IPv4 Subnetting (FLSM / VLSM), OSPF, RIP, EIGRP, Static Routing
+- **Switching & Layer 2:** VLANs, Trunking (802.1Q), Inter-VLAN Routing (ROAS / SVI), STP, EtherChannel (LACP / PAgP), DTP, VTP
+- **Network Security:** Port-Security, SSH Management, ACLs
+- **Simulation & Tools:** Cisco Packet Tracer, Wireshark, CLI Configuration
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 **LinkedIn:** [Amine EL-marzouqi](https://www.linkedin.com/in/amine-el-marzouqi-29a6b3436)
+
+---
+
+### 📊 GitHub Stats
+
+![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ELmarzouqii&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELmarzouqii&layout=compact&theme=radial)
