@@ -17,6 +17,7 @@ Passionate about Cisco Technologies, Routing & Switching, Network Security, and 
 ### 🌐 Connect with Me
 
 - 💼 **LinkedIn:** [Amine EL-marzouqi](https://www.linkedin.com/in/amine-el-marzouqi-29a6b3436)
+- 📧 **Email:** Amineelmarzouqi1@gmail.com
 
 ---
 
